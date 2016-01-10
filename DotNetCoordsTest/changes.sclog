@@ -1,0 +1,19 @@
+{
+  "outputhtml": "True",
+  "versions": [
+    {
+      "id": "99a9731d-4766-4eb9-b0cd-b3b01fff6887",
+      "type": "beta",
+      "version": "1.0.0.0",
+      "items": [
+        {
+          "id": "32b8c994-de71-4aaf-857d-4f94897450fe",
+          "type": "new",
+          "description": "Started revision log.",
+          "addressesknownissue": ""
+        }
+      ]
+    }
+  ],
+  "knownissues": []
+}
