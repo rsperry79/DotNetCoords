@@ -1,5 +1,6 @@
 ﻿using DotNetCoords;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+// ReSharper disable PossibleNullReferenceException
 
 namespace DotNetCoordsTest
 {
